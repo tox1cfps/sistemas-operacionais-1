@@ -1,7 +1,7 @@
 # RELATÓRIOS – SISTEMAS OPERACIONAIS
 
 **Autor:** Arthur Rodrigues Fonseca
-**Curso:** Tecnologia da Informação  
+**Curso:** Analise e Desenvolvimento de sistemas
 **Ano:** 2026  
 
 ---
